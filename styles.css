@@ -1,0 +1,220 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+body {
+    background-color: #E9CEFF;
+}
+.computer{
+    width: 100%;
+    height: auto;
+    /* background-color: blueviolet; */
+}
+
+.imgs img {
+    width: 60%;
+    height: 300px;
+    border-radius: 15px;
+    padding: 5px;
+    
+    /* background-color: white; */
+}
+.box{
+    width: 59%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 15px;
+    
+}
+.container-form {
+     max-width: 59%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+
+    
+
+}
+
+.form {
+    padding: 30px;
+}
+
+.form input {
+    width: 100%;
+    height: auto;
+    background-color:#E9CEFF;
+    ;
+    
+}
+
+.container-form-radio {
+    max-width: 59%;
+    height: 245px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+
+.form-check {
+    margin-left: 25px;
+}
+.container-form-radio1 {
+    max-width: 59%;
+    height: 260px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.container-section {
+    width: 59%;
+    height: 85px;
+    align-items: center;
+    justify-content: center;
+    background-color: #CEF0FF;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    
+
+}
+.container-form-radio2 {
+    max-width: 59%;
+    height: 285px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.container-form-radio3 {
+    max-width: 59%;
+    height: 205px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.text{
+    padding: 30px;
+}
+.text input {
+    width: 100%;
+    height: auto;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: black;
+    margin-top: 15px;
+    font-size: 16px;
+    
+
+  }
+  .text input:focus {
+    border-color: rgb(0, 0, 0);
+  }
+  .container-textline{
+    margin-left: 55%;
+    margin-top: -26%;
+  }
+  .container-form-radio4 {
+    max-width: 59%;
+    height: 380px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.container-form-radio5 {
+    max-width: 59%;
+    height: 385px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.container-form-radio6 {
+    max-width: 59%;
+    height: 255px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.container-form-radio7 {
+    max-width: 59%;
+    height: 270px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.container-form-radio8 {
+    max-width: 59%;
+    height: 310px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    
+
+}
+.submit{
+    width: 20%;
+    height: auto;
+    background-color: rgb(202, 0, 202);
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    font-size: 1.2rem;
+    
+    margin-top: 5px;
+}
+.demo{
+    width: 30%;
+    font-size:18px;
+    position: relative;
+    top: -35px;
+    
+}
